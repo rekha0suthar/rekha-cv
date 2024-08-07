@@ -1,4 +1,5 @@
 # rekha-cv
 
-![Screenshot from 2024-07-09 14-35-02](https://github.com/rekha0suthar/rekha-cv/assets/71004640/2c6877d8-6d1c-44a6-9f6c-67545ebeff47)
-![Screenshot from 2024-07-09 14-35-20](https://github.com/rekha0suthar/rekha-cv/assets/71004640/ba786f32-5c78-4349-8c7f-f5ae2d1ff87b)
+![Screenshot from 2024-08-07 11-25-18](https://github.com/user-attachments/assets/79d155cd-1731-4639-b788-a003735a173f)
+![Screenshot from 2024-08-07 11-25-49](https://github.com/user-attachments/assets/f83fec4a-dd9c-437a-9b8d-fd2d3c8cb13f)
+![Screenshot from 2024-08-07 11-26-37](https://github.com/user-attachments/assets/0183cdec-cc5c-458a-bd47-b0b8c9e7989c)
